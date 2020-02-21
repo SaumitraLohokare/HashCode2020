@@ -1,7 +1,7 @@
 # HashCode2020
 
 The folders contain the problem statement and the input files (.in for Practice) (.txt for Qualification)
-My resulting output files are stored as (*_solution in Practice) (<name>.solution in Qualification)
+My resulting output files are stored as (*ans_*\<name\>.txt in Practice) (*\<name\>.solution* in Qualification)
   
  ## To run my code for practice:
   Type in command-line ->
